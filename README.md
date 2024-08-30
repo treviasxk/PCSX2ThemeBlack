@@ -3,9 +3,6 @@ PCSX2 theme Black, I will update the repository when I create more themes.
 All themes were created by me, please consider buying me a coffee :)
 
 ## Donate
- - Brazil
- PIX: trevias@live.com
- - International
  Paypal: trevias@live.com
 
 ## Installation
